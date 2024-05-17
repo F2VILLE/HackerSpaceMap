@@ -1,0 +1,15 @@
+* {
+  padding: 0;
+  margin: 0;
+  outline: none !important;
+}
+
+body {
+  background-color: #151518;
+  color: #fff;
+  font-family: "Roboto", sans-serif;
+}
+
+#map {
+  height: 80vh;
+}
